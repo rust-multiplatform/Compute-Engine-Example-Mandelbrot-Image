@@ -1,4 +1,4 @@
-# Rust Multi-Platform: Compute Project Template
+# Rust Multi-Platform - Compute Engine Example: Mandelbrot Image
 
 > ⚠️ THIS IS A TEMPLATE. ⚠️
 
